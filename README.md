@@ -17,7 +17,7 @@ Após ter o texto criado e refinado, utilizei o ElevenLabs para criar uma narra�
 E para finalizar, na plataforma D-iD, criei um avatar com minha foto real e unifiquei com o audio e com isso criei um meu avatar com a narração criada, conforme itens acima.<br>
 
 ## 🚀 Resultados
-O resultado apresentado se encontra no arquivo: Introducao O Poder do Agora.mp4<br>
+O resultado apresentado se encontra no arquivo: ElevenLabs even<br>
 
 
 
