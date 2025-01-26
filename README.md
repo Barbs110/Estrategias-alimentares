@@ -20,22 +20,27 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# NattyOrNot
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Demonstra o potencial transformador das Inteligências Artificiais Generativas, criando conteúdo original
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT (Geração de Texto)
+DALL-E 2 (Geração de Imagens)
+Midjourney (Arte Generativa)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Definição de conceitos originais
+Iteração entre diferentes ferramentas
+Seleção de conteúdo
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Conteúdo original em texto, imagem e design usando IA
+Demonstração de inovações tecnológicas
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Criar algo "natty" utilizando IA, O conteúdo foi gerado a partir de prompts criativos e experimentais nas plataformas de IA mencionadas. Primeiro, foram selecionados temas, como cenários futuristas e interações entre humanos e IA.
 ```
 
 ### Exemplos e Insigths
