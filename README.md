@@ -1,16 +1,18 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Como iniciar a leitura de livros
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Encontrar em diferentes IAs dicas de como começar a ler livros.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ - ChatGPT
+ - Copilot
+ - ...
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Através de prompts em diferentes IAs
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Cada resultado será mostarado dentro do diretório Resultados
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
